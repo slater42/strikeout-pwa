@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "STRIKEOUT \u2014 Dating With Intention",
+  "short_name": "STRIKEOUT",
+  "description": "A more intentional dating prototype with a connected three-orb progress mechanic.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071326",
+  "theme_color": "#071326",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
